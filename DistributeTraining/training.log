@@ -895,3 +895,10 @@ Evaluating iter 7/10
 Evaluating iter 8/10
 Evaluating iter 9/10
 Evaluating iter 10/10
+INFO:megatron.core.timers:(min, max) time across ranks (ms):
+    evaluate .......................................: (127307.32, 127307.32)
+WARNING:megatron.core.rerun_state_machine:Setting RerunStateMachine mode RerunMode.VALIDATE_RESULTS
+WARNING:megatron.core.rerun_state_machine:Setting RerunStateMachine mode RerunMode.VALIDATE_RESULTS
+----------------------------------------------------------------------------------------------------------
+ validation loss at iteration 50 on test set | lm loss value: 1.040235E+01 | lm loss PPL: 3.293701E+04 | 
+----------------------------------------------------------------------------------------------------------

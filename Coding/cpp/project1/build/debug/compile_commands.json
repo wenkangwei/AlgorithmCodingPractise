@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/wwk/workspace/ai_project/AlgorithmCodingPractice/Coding/cpp/project1/build/debug",
+  "command": "/usr/bin/c++  -I/home/wwk/workspace/ai_project/AlgorithmCodingPractice/Coding/cpp/project1/include -g -std=gnu++11 -o CMakeFiles/MyExecutable.dir/src/main.cpp.o -c /home/wwk/workspace/ai_project/AlgorithmCodingPractice/Coding/cpp/project1/src/main.cpp",
+  "file": "/home/wwk/workspace/ai_project/AlgorithmCodingPractice/Coding/cpp/project1/src/main.cpp"
+}
+]

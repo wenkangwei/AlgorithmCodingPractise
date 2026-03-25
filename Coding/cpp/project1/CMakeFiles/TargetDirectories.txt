@@ -1,0 +1,3 @@
+/home/wwk/workspace/ai_project/AlgorithmCodingPractice/Coding/cpp/project1/CMakeFiles/MyExecutable.dir
+/home/wwk/workspace/ai_project/AlgorithmCodingPractice/Coding/cpp/project1/CMakeFiles/edit_cache.dir
+/home/wwk/workspace/ai_project/AlgorithmCodingPractice/Coding/cpp/project1/CMakeFiles/rebuild_cache.dir

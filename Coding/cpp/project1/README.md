@@ -130,3 +130,7 @@ bash build.sh
 # 详细指定参数： 输出版本， 安装目录位置 是否测试case
 bash build.sh debug /usr/local  --test
 ~~~
+
+
+# C++教程学习
+- https://www.runoob.com/cplusplus/cpp-namespaces.html

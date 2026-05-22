@@ -1,0 +1,5 @@
+# ninja log v7
+0	1178	1778775609792038711	/home/wwk/workspace/ai_project/AlgorithmCodingPractice/Coding/cuda/cuda_demo/build/temp.linux-x86_64-cpython-313/ops/src/reduce_sum/sum_cuda.o	7d2af488c5b4ce03
+0	15969	1778775609792038711	/home/wwk/workspace/ai_project/AlgorithmCodingPractice/Coding/cuda/cuda_demo/build/temp.linux-x86_64-cpython-313/ops/src/reduce_sum/sum.o	392b34e3c8387eb9
+3	940	1778775626164884484	/home/wwk/workspace/ai_project/AlgorithmCodingPractice/Coding/cuda/cuda_demo/build/temp.linux-x86_64-cpython-313/ops/src/sum_two_arrays/two_sum_cuda.o	9795d802b93f7bb1
+3	16186	1778775626164884484	/home/wwk/workspace/ai_project/AlgorithmCodingPractice/Coding/cuda/cuda_demo/build/temp.linux-x86_64-cpython-313/ops/src/sum_two_arrays/two_sum.o	b1928550e650ebd

@@ -1,0 +1,41 @@
+syntax = "proto3";
+
+package recommendation;
+
+// 推荐系统服务接口
+service RecommendationService {
+  // 获取推荐列表
+  rpc GetRecommendations (RecommendationRequest) returns (RecommendationResponse);
+}
+
+// 推荐请求
+message RecommendationRequest {
+  string user_id = 1;           // 用户ID
+  string cookie_id = 2;         // Cookie ID
+  string trace_id = 3;          // 追踪ID
+  int64 timestamp = 4;           // 时间戳
+  string browser = 5;            // 浏览器信息
+  string location = 6;           // 地理位置
+  string application = 7;       // 应用名称
+  map<string, string> headers = 8;  // HTTP头部信息
+  int32 num_results = 9;        // 请求返回结果数量
+}
+
+// 推荐响应
+message RecommendationResponse {
+  repeated RecommendationItem items = 1;  // 推荐项目列表
+  string trace_id = 2;                    // 追踪ID（与请求对应）
+  int32 status_code = 3;                  // 状态码
+  string message = 4;                     // 响应消息
+}
+
+// 推荐项目
+message RecommendationItem {
+  string item_id = 1;          // 项目ID
+  double score = 2;            // 推荐分数
+  string category = 3;         // 分类
+  string url = 4;              // URL地址
+  string title = 5;            // 标题
+  string description = 6;      // 描述
+  map<string, string> metadata = 7;  // 额外元数据
+}

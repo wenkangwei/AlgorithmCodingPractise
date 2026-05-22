@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/recommendation_client.dir/src/recommendation_client.cpp.o CMakeFiles/recommendation_client.dir/recommendation.pb.cc.o CMakeFiles/recommendation_client.dir/proto/recommendation.grpc.pb.cc.o -o recommendation_client  -lgrpc++ -lgrpc -lgpr /usr/lib/x86_64-linux-gnu/libprotobuf.so 

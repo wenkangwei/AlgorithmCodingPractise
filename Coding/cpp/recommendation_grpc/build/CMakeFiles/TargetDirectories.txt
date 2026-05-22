@@ -1,0 +1,5 @@
+/home/wwk/workspace/ai_project/AlgorithmCodingPractice/Coding/cpp/recommendation_grpc/build/CMakeFiles/proto_gen.dir
+/home/wwk/workspace/ai_project/AlgorithmCodingPractice/Coding/cpp/recommendation_grpc/build/CMakeFiles/recommendation_server.dir
+/home/wwk/workspace/ai_project/AlgorithmCodingPractice/Coding/cpp/recommendation_grpc/build/CMakeFiles/recommendation_client.dir
+/home/wwk/workspace/ai_project/AlgorithmCodingPractice/Coding/cpp/recommendation_grpc/build/CMakeFiles/edit_cache.dir
+/home/wwk/workspace/ai_project/AlgorithmCodingPractice/Coding/cpp/recommendation_grpc/build/CMakeFiles/rebuild_cache.dir
